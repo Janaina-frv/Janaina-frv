@@ -1,5 +1,3 @@
-<img src="https://github.com/Janaina-frv/Janaina-frv/blob/master/a304168113a5f756762b40e998e21b04.jpg">
-
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
@@ -9,6 +7,9 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janaina-vasconcelos-571ba031/)
+ 
+ 
+ <img src="https://github.com/Janaina-frv/Janaina-frv/blob/master/a304168113a5f756762b40e998e21b04.jpg">
 
 <!--
 **Janaina-frv/Janaina-frv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
