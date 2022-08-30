@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/a304168113a5f756762b40e998e21b04.jpg">
+<img src="https://github.com/Janaina-frv/Janaina-frv/blob/master/a304168113a5f756762b40e998e21b04.jpg">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
